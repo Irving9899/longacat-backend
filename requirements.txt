@@ -1,5 +1,2 @@
 fastapi
 uvicorn
-
-__pycache__/
-venv/
